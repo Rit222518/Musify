@@ -1,0 +1,142 @@
+{
+    "38": {
+        "artist_name": "elvis presley",
+        "track_name": "jailhouse rock",
+        "release_date": 1958,
+        "genre": "rock",
+        "topic": "music"
+    },
+    "39": {
+        "artist_name": "santana",
+        "track_name": "while my guitar gently weeps",
+        "release_date": 2010,
+        "genre": "blues",
+        "topic": "music"
+    },
+    "4": {
+        "artist_name": "widespread panic",
+        "track_name": "radio child",
+        "release_date": 1996,
+        "genre": "blues",
+        "topic": "music"
+    },
+    "33": {
+        "artist_name": "elvis presley",
+        "track_name": "hey jude",
+        "release_date": 1972,
+        "genre": "rock",
+        "topic": "obscene"
+    },
+    "1": {
+        "artist_name": "goth babe",
+        "track_name": "sometimes",
+        "release_date": 2018,
+        "genre": "rock",
+        "topic": "world/life"
+    },
+    "47": {
+        "artist_name": "the kinks",
+        "track_name": "do you remember walter?",
+        "release_date": 1968,
+        "genre": "rock",
+        "topic": "world/life"
+    },
+    "43": {
+        "artist_name": "the decemberists",
+        "track_name": "down by the water",
+        "release_date": 2011,
+        "genre": "rock",
+        "topic": "violence"
+    },
+    "26": {
+        "artist_name": "glen campbell",
+        "track_name": "you're my world",
+        "release_date": 1967,
+        "genre": "country",
+        "topic": "world/life"
+    },
+    "18": {
+        "artist_name": "the sonics",
+        "track_name": "night time is the right time",
+        "release_date": 1965,
+        "genre": "blues",
+        "topic": "night/time"
+    },
+    "28": {
+        "artist_name": "redneck souljers",
+        "track_name": "fish in a barrel (feat. d. thrash)",
+        "release_date": 2013,
+        "genre": "country",
+        "topic": "night/time"
+    },
+    "8": {
+        "artist_name": "the green",
+        "track_name": "good vibration",
+        "release_date": 2011,
+        "genre": "reggae",
+        "topic": "feelings"
+    },
+    "7": {
+        "artist_name": "fuel",
+        "track_name": "hemorrhage (in my hands)",
+        "release_date": 2000,
+        "genre": "pop",
+        "topic": "violence"
+    },
+    "34": {
+        "artist_name": "widespread panic",
+        "track_name": "superstition",
+        "release_date": 2000,
+        "genre": "blues",
+        "topic": "world/life"
+    },
+    "10": {
+        "artist_name": "takuya kuroda",
+        "track_name": "everybody loves the sunshine",
+        "release_date": 2014,
+        "genre": "jazz",
+        "topic": "feelings"
+    },
+    "24": {
+        "artist_name": "dean martin",
+        "track_name": "ain't that a kick in the head",
+        "release_date": 1961,
+        "genre": "jazz",
+        "topic": "violence"
+    },
+    "17": {
+        "artist_name": "roxy music",
+        "track_name": "more than this",
+        "release_date": 1982,
+        "genre": "pop",
+        "topic": "sadness"
+    },
+    "6": {
+        "artist_name": "steely dan",
+        "track_name": "any world (that i'm welcome to)",
+        "release_date": 1975,
+        "genre": "blues",
+        "topic": "world/life"
+    },
+    "41": {
+        "artist_name": "culture club",
+        "track_name": "time (clock of the heart)",
+        "release_date": 1987,
+        "genre": "pop",
+        "topic": "night/time"
+    },
+    "22": {
+        "artist_name": "miley cyrus",
+        "track_name": "party in the u.s.a.",
+        "release_date": 2009,
+        "genre": "pop",
+        "topic": "obscene"
+    },
+    "42": {
+        "artist_name": "melody gardot",
+        "track_name": "some lessons",
+        "release_date": 2007,
+        "genre": "jazz",
+        "topic": "world/life"
+    }
+}
